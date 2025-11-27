@@ -48,7 +48,8 @@ This project analyzes **8,523 retail items** across multiple Blinkit-style outle
 
 **ER Diagram (Blinkit dataset)**
 
-<img width="1024" height="1024" alt="ChatGPT Image Nov 27, 2025, 03_10_45 PM" src="https://github.com/user-attachments/assets/93b2dab7-1b6b-4ac9-af67-015b974e2bfa" />
+<img width="1024" height="1024" alt="Generated Image November 27, 2025 - 3_14PM" src="https://github.com/user-attachments/assets/2ea234c5-ed4e-4dc5-8ce7-eba31eee50e2" />
+
 
 ---
 
