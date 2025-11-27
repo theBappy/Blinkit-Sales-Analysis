@@ -46,12 +46,9 @@ This project analyzes **8,523 retail items** across multiple Blinkit-style outle
 
 ## 🧩 ER Diagram
 
-**Single Table ER Diagram (Blinkit dataset)**
+**ER Diagram (Blinkit dataset)**
 
-<img src="attachment:/mnt/data/A_diagram_in_the_form_of_an_Entity-Relationship_(E.png" width="420"/>
-
-> For a **multi-table professional ERD**, run:
-> `buddy generate advanced Blinkit schema`
+<img width="1024" height="1024" alt="ChatGPT Image Nov 27, 2025, 03_10_45 PM" src="https://github.com/user-attachments/assets/93b2dab7-1b6b-4ac9-af67-015b974e2bfa" />
 
 ---
 
