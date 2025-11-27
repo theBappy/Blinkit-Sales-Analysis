@@ -201,7 +201,6 @@ ORDER BY Total_Sales DESC;
 
 * **SQL Server / T-SQL**
 * **Azure Data Studio / SSMS**
-* **Power BI** (optional dashboards)
 
 ---
 
