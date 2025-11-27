@@ -210,8 +210,9 @@ ORDER BY Total_Sales DESC;
 blinkit-sql-analysis/
 │
 ├── data/
-├── sql/
-├── visuals/
+├── sql_queries/
+├── sql_qureires_reuslts/
+├── business_requirements/
 ├── README.md
 ```
 
