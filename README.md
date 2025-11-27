@@ -1,4 +1,4 @@
-# 🛒 Blinkit Retail Sales Analytics (SQL Project)
+# 🛒 Blinkit Sales Analytics (SQL Project)
 
 <img width="1024" height="1024" alt="Generated Image November 27, 2025 - 2_51PM" src="https://github.com/user-attachments/assets/a9790872-1170-4326-aa19-596507b781de" />
 
