@@ -1,6 +1,7 @@
 # 🛒 Blinkit Sales Analytics (SQL Project)
 
-<img width="1024" height="1024" alt="Generated Image November 27, 2025 - 2_51PM" src="https://github.com/user-attachments/assets/a9790872-1170-4326-aa19-596507b781de" />
+
+<img width="1024" height="1024" alt="688bf6cf-7e3b-421e-933a-374589ffd33e" src="https://github.com/user-attachments/assets/547ae23b-00a4-4d11-9e09-586f59f12364" />
 
 
 A complete retail analytics project built using **SQL Server**, delivering insights on **product sales, outlet performance, customer shopping patterns, and category-wise revenue** based on real Blinkit (Grofers)-style retail data.
