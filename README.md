@@ -1,6 +1,6 @@
 🛒 Blinkit Sales Analytics – SQL Project
 
-⚠️ Replace with your actual banner. If you want, say “buddy design blinkit banner” and I’ll create one.
+<img width="1024" height="1024" alt="Generated Image November 27, 2025 - 2_51PM" src="https://github.com/user-attachments/assets/6fd58367-86cc-4a79-8c7d-76d080c9bf5b" />
 
 📌 Project Overview
 
@@ -22,23 +22,6 @@ This project is designed to replicate real-world retail analytics scenarios used
 
 🗂 Dataset Overview
 
-Main table:
-
-blinkit_data
-Column	Description
-Item_Identifier	Unique product ID
-Item_Weight	Product weight
-Item_Fat_Content	Low Fat / Regular
-Item_Visibility	Visibility score
-Item_Type	Category of product
-Item_MRP	Maximum retail price
-Outlet_Identifier	Unique store code
-Outlet_Establishment_Year	Year when outlet started
-Outlet_Size	Small / Medium / High
-Outlet_Location_Type	Tier 1 / Tier 2 / Tier 3
-Outlet_Type	Grocery / Supermarket type1/2/3
-Total_Sales	Total revenue from the item
-Rating	Customer rating
 🧩 ER Diagram
                     ┌──────────────────────────┐
                     │       blinkit_data       │
@@ -62,7 +45,7 @@ Rating	Customer rating
 ✔ Single fact table (denormalized dataset, retail-style)
 ✔ If you want a normalized schema for warehouse (fact + dims), I can build that too.
 
-✔ If you want this ER diagram as a PNG, say “buddy generate ER PNG”.
+
 
 📊 KPI Summary
 ✔ Total Sales
