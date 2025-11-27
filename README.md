@@ -48,7 +48,8 @@ This project analyzes **8,523 retail items** across multiple Blinkit-style outle
 
 **ER Diagram (Blinkit dataset)**
 
-<img width="1024" height="1024" alt="Generated Image November 27, 2025 - 3_14PM" src="https://github.com/user-attachments/assets/2ea234c5-ed4e-4dc5-8ce7-eba31eee50e2" />
+
+<img width="1024" height="1024" alt="wmremove-transformed" src="https://github.com/user-attachments/assets/5e49acfd-7ea7-42a6-b37f-a0c0248b8e7c" />
 
 
 ---
