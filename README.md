@@ -136,6 +136,7 @@ FROM blinkit_data
 GROUP BY Outlet_Size
 ORDER BY Total_Sales DESC;
 
+<br>
 All Outlet Type Metrics
 SELECT
     Outlet_Type,
